@@ -9,7 +9,7 @@
     "author": "hym",
     "license": "ISC",
     "devDependencies": {
-        "express": "^4.17.0"
+        "express": "^4.17.3"
     },
     "dependencies": {
         "art-template": "^4.13.2",
